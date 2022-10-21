@@ -1,7 +1,7 @@
 ---
 title: GroupDocs.Classification
 second_title: GroupDocs.Classification for .NET API 参考
-description: 
+description: GroupDocs.Classification 命名空间为文本和文档分类提供类 命名空间中的主要类是 Classifier 是分类的入口点。 分类法代表所有支持的分类法。 PrecisionRecallBalance 代表文档分类的所有支持的精度/召回余额。
 type: docs
 weight: 90
 url: /zh/net/groupdocs.classification/

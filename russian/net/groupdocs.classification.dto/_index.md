@@ -1,7 +1,7 @@
 ---
 title: GroupDocs.Classification.DTO
 second_title: Справочник по API GroupDocs.Classification для .NET
-description: 
+description: Пространство имен GroupDcos.Classification.DTO предоставляет классы для объектов типов данных.
 type: docs
 weight: 100
 url: /ru/net/groupdocs.classification.dto/

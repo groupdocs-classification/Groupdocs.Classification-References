@@ -1,7 +1,7 @@
 ---
 title: GroupDocs.Classification.DTO
 second_title: GroupDocs.Classification for .NET API 参考
-description: 
+description: GroupDcos.Classification.DTO 命名空间为数据类型对象提供类。
 type: docs
 weight: 100
 url: /zh/net/groupdocs.classification.dto/

@@ -1,7 +1,7 @@
 ---
 title: GroupDocs.Classification.Exceptions
 second_title: Справочник по API GroupDocs.Classification для .NET
-description: 
+description: Пространство имен GroupDocs.Classification.Exceptions предоставляет классы исключений.
 type: docs
 weight: 110
 url: /ru/net/groupdocs.classification.exceptions/

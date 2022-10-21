@@ -1,7 +1,7 @@
 ---
 title: GroupDocs.Classification.Exceptions
 second_title: GroupDocs.Classification for .NET API 参考
-description: 
+description: GroupDocs.Classification.Exceptions 命名空间提供异常类。
 type: docs
 weight: 110
 url: /zh/net/groupdocs.classification.exceptions/

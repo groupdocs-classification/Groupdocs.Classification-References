@@ -12,6 +12,8 @@ lead: "Classify documents and text with IAB-2, Documents, and Sentiment taxonomi
 
 platforms:
   - name: ".NET"
+    version: "21.1.0"
+    versionUrl: "https://www.nuget.org/packages/groupdocs.classification/21.1.0"
     key: net
     ref: "/net/"
     install: "dotnet add package GroupDocs.Classification"

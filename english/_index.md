@@ -1,23 +1,48 @@
 ---
-title: GroupDocs.Classification Product Family
-additionalTitle: GroupDocs API References
+title: "GroupDocs.Classification"
+linktitle: "GroupDocs.Classification"
+description: "GroupDocs.Classification API reference for .NET, Java, Node.js, and Python — Classify documents and text with IAB-2, Documents, and Sentiment taxonomies."
+keywords: "GroupDocs.Classification, classification API, API reference, .NET, Java, Python, document processing"
+additionalTitle: "GroupDocs API References"
 type: docs
+layout: family
 weight: 10
-description: "Build custom applications to perform documents and text categorization operations using different taxonomies within your applications."
 url: /
+lead: "Classify documents and text with IAB-2, Documents, and Sentiment taxonomies."
+
+platforms:
+  - name: ".NET"
+    key: net
+    ref: "/net/"
+    install: "dotnet add package GroupDocs.Classification"
+  - name: "Java"
+    key: java
+    ref: "/java/"
+    install: "com.groupdocs:groupdocs-classification"
+
+formats: ["Text", "Documents"]
+
+capabilities:
+  - "IAB-2, Documents & Sentiment taxonomies"
+  - "Best-match classes"
+  - "Raw text or document input"
+  - "Batch classification"
+  - "Tune result count"
+
+resources:
+  - name: "Documentation"
+    url: "https://docs.groupdocs.com/classification/"
+    icon: "api"
+  - name: "Code examples"
+    url: "https://github.com/groupdocs-classification"
+    icon: "code"
+  - name: "Releases & changelog"
+    url: "https://releases.groupdocs.com/classification/"
+    icon: "demos"
+  - name: "Support forum"
+    url: "https://forum.groupdocs.com/c/classification/"
+    icon: "free-support"
+  - name: "Product page"
+    url: "https://products.groupdocs.com/classification/"
+    icon: "total"
 ---
-
-## GroupDocs.Classification for .NET
-
-{{% alert color="primary" %}} 
-
-![GroupDocs.Classification for .NET Product Logo](gdocs_net.png)
-
-Develop .NET applications with documents and text categorization features to analyze & extract content without using any external tool.
-
-{{% /alert %}} 
-
-These are links to some useful resources:
-
-- [GroupDocs.Classification for .NET API Reference](/classification/net/)
-

@@ -23,6 +23,8 @@ platforms:
     install: "com.groupdocs:groupdocs-classification"
 
 formats: ["Text", "Documents"]
+formatsCount: "10+"
+formatsNote: "…and more document and text formats."
 
 capabilities:
   - "IAB-2, Documents & Sentiment taxonomies"
